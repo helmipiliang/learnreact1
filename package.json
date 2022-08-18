@@ -1,0 +1,16 @@
+{
+  "name": "training-react",
+  "version": "1.0.0",
+  "description": "Traning React 1508 2309",
+  "main": "index.html",
+  "scripts": {
+	"start":"npm run lite",
+	"lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helmi Piliang",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
